@@ -10,3 +10,6 @@ var runningSum = function(nums) {
   }
   return nums;
 };
+
+// Time complexity O(n)
+// Space Complexity O(1)
